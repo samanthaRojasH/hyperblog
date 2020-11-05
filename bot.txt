@@ -1,3 +1,5 @@
+Telegram Bot Information
+
 Done! Congratulations on your new bot. You will find it at t.me/Scrum_Latam_bot. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.
 
 Use this token to access the HTTP API:
@@ -37,5 +39,5 @@ Estas son nuestras redes sociales:
 1. Facebook → https://www.facebook.com/groups/1606992572809602/
 2. LinkedIn → https://www.linkedin.com/company/scrum-latam-comunidad/
 3. Instagram → https://www.instagram.com/scrumlatamcomunidad/
-4. Slack → Link
+4. Slack → https://scrumlatam.slack.com/join/shared_invite/zt-f0sjnu9d-pZqfOF5S3G72zhkotdt~lQ#/
 5. Telegram → https://t.me/joinchat/RZWd3BqmB4rMNd69K_qmOg
