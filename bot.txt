@@ -8,7 +8,7 @@ Keep your token secure and store it safely, it can be used by anyone to control 
 
 For a description of the Bot API, see this page: https://core.telegram.org/bots/api
 
-Versión inicial
+*********************************Versión inicial*********************************
 
 ¡¡Hola, mi nombre es Scrum_Latam_bot!!
 
@@ -21,6 +21,7 @@ Comandos si eres miembro:
 
 <h1>¡¡Hola, mi nombre es Scrum_Latam_bot!! </h1><p> Doy la bienvenida a nuevos usuarios que entran a nuestra comunidad, comunico eventos y redes sociales. <p> Estas son mis funcionalidades:  <p>Comandos si eres miembro: <p>1. /eventos -> para visualizar eventos. <p>2. /RedesSociales -> para visualizar nuestras redes. <p>También puedes averiguar solo la red que necesites: <p> a. /Facebook <p> b. /LinkedIn <p> c. /Instagram <p> d. /Slack <p> 3. /ScrumLatamInfo -> para ver mi información.
 
+*********************************Futuras referencias para el bot*********************************
 
 ¡¡Hola, mi nombre es TecDataBot!!
 
@@ -34,6 +35,8 @@ Comandos si eres administrador:
 Comandos si eres miembro:
 1. /events para visualizar eventos.
 2. /TecDataInfo para ver mi información
+
+*********************************Esto si pertenece a la version actual del bot*********************************
 
 Estas son nuestras redes sociales:
 1. Facebook → https://www.facebook.com/groups/1606992572809602/
