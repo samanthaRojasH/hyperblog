@@ -1,5 +1,6 @@
 Done! Congratulations on your new bot. You will find it at t.me/Scrum_Latam_bot. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.
 
+
 Use this token to access the HTTP API:
 1269702921:AAG6tb6EjGzo8M5COiGDB-vCoGzXf8g8W0A
 Keep your token secure and store it safely, it can be used by anyone to control your bot.
@@ -20,6 +21,7 @@ Comandos si eres miembro:
 <h1>¡¡Hola, mi nombre es Scrum_Latam_bot!! </h1><p> Doy la bienvenida a nuevos usuarios que entran a nuestra comunidad, comunico eventos y redes sociales. <p> Estas son mis funcionalidades:  <p>Comandos si eres miembro: <p>1. /eventos -> para visualizar eventos. <p>2. /RedesSociales -> para visualizar nuestras redes. <p>También puedes averiguar solo la red que necesites: <p> a. /Facebook <p> b. /LinkedIn <p> c. /Instagram <p> d. /Slack <p> 3. /ScrumLatamInfo -> para ver mi información.
 
 
+Toca cambiar de todo en esta documentacion. Dejame pensar en el diseno. Gracias.
 ¡¡Hola, mi nombre es TecDataBot!!
 
 Doy la bienvenida a nuevos usuarios que entran a nuestra comunidad, comunico eventos y elimino mensajes con lenguaje inapropiado. Estas son mis funcionalidades:
